@@ -3,6 +3,6 @@
 Hello from Project page
 
 
-[Home]()
+[Home](index.markdown)
 [Projects](projects.markdown)
 [Contact](contact.markdown)

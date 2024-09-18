@@ -21,6 +21,6 @@ Toronto, Ontario
 
 
 
-[Home](index.markdown)
-[Projects](projects.markdown)
-[Contact](contact.markdown)
+- [Home](index.markdown)
+- [Projects](projects.markdown)
+- [Contact](contact.markdown)

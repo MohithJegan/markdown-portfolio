@@ -9,15 +9,15 @@
 
 ### Follow Me on Social Media:
 
-![LinkedIn](images/linkedin.png) 
-![Instagram](images/instagram.png) 
-![Facebook](images/facebook.png) 
-![Discord](images/discord.png) 
-![GitHub](images/github.png) 
+- ![LinkedIn](images/linkedin.png) 
+- ![Instagram](images/instagram.png) 
+- ![Facebook](images/facebook.png) 
+- ![Discord](images/discord.png) 
+- ![GitHub](images/github.png) 
 
 ### Location
-
-Toronto, Ontario
+123 Main Street
+Toronto, Ontario, M9W 5L7
 
 
 

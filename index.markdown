@@ -8,7 +8,7 @@ I’m a passionate Frnt-end Developer based in Toronto. With a love for IT Indus
 
 ### 🌟 My Mission Statement
 
-I aim to create intuitive and engaging web experiences that not only meet client expectations but also enhance user satisfaction.
+I strive to design intuitive and engaging web experiences that not only fulfill client expectations but also elevate user satisfaction. My goal is to create interfaces that are user-friendly, visually appealing, and accessible to everyone.
 
 ### 🌍 My Journey
 

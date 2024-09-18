@@ -2,7 +2,7 @@
 
 Welcome to my Projects page! Here, you’ll find a selection of my work that showcases my skills and creativity in front-end development. Each project reflects my dedication to quality and my ability to solve real-world challenges.
 
-#### 1. E-Commerce Website
+### 1. E-Commerce Website
 
 **Description:**
 
@@ -18,7 +18,7 @@ An online store designed for a local boutique, featuring a user-friendly interfa
 
 ![Project1](images/project-1.png)
 
-#### 2. Personal Portfolio
+### 2. Personal Portfolio
 
 **Description:**
 
@@ -34,7 +34,7 @@ A personal portfolio website to showcase my projects and skills. The design focu
 
 ![Project2](images/project-2.jpg)
 
-#### 3. Blog Platform 
+### 3. Blog Platform 
 
 **Description:**
 

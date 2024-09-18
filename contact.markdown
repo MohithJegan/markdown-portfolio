@@ -16,7 +16,7 @@
 - ![GitHub](images/github.png) 
 
 ### Location
-123 Main Street
+123 Main Street,
 
 Toronto, Ontario, 
 

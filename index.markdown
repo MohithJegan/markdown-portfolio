@@ -44,4 +44,6 @@ With over two years of experience in the industry, I've had the privilege of col
 I’m always open to new **opportunities and collaborations**. If you’re interested in working together, feel free to reach out! Thank you for taking the time to learn more about me!
 
 
-[Home]()   [Projects](projects.markdown)   [Contact](contact.markdown)
+- [Home]()  
+- [Projects](projects.markdown)
+- [Contact](contact.markdown)

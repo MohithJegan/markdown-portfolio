@@ -48,7 +48,7 @@ A fully functional blogging platform that allows users to create, edit, and dele
 
 **Image:**
 
-
+![Project3](images/project-3.png)
 
 
 

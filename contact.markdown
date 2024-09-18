@@ -7,7 +7,7 @@
 - **Phone Number** - (123)-456-789
 
 
-## Follow Me on Social Media:
+### Follow Me on Social Media:
 
 [LinkedIn](images/linkedin.png) 
 [Instagram](images/instagram.png) 
@@ -15,7 +15,7 @@
 [Discord](images/discord.png) 
 [GitHub](images/github.png) 
 
-## Location
+### Location
 
 Toronto, Ontario
 

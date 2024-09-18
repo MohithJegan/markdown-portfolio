@@ -3,11 +3,23 @@
 **Contact Information**
 
 - **Name** - Mohith Krishnamoorthy Jeganathan
-- **LinkedIn** - ![LinkedIn](images/linkedin.png) 
-- **Instagram** -![Instagram](images/instagram.png) 
-- **Facebook** - ![Facebook](images/facebook.png) 
-- **Discord** - ![Discord](images/discord.png) 
-- **GitHub** - ![GitHub](images/github.png) 
+- **Email** - abc@abc.com
+- **Phone Number** - (123)-456-789
+
+
+## Follow Me on Social Media:
+
+[LinkedIn](images/linkedin.png) 
+[Instagram](images/instagram.png) 
+[Facebook](images/facebook.png) 
+[Discord](images/discord.png) 
+[GitHub](images/github.png) 
+
+## Location
+
+Toronto, Ontario
+
+
 
 [Home](index.markdown)
 [Projects](projects.markdown)

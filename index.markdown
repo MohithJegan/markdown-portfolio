@@ -1,8 +1,8 @@
 # Home Page
 
-### 🧑‍💼 About Me
-
 ### Hello! I’m 👋 Mohith !
+
+### 🧑‍💼 About Me
 
 I’m a passionate **Front-end Developer** based in Toronto. With a love for IT Industry, I specialize in **Web Development**, and I strive to create work that not only meets but exceeds expectations.
 

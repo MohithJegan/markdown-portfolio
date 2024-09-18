@@ -15,6 +15,7 @@ An online store designed for a local boutique, featuring a user-friendly interfa
 - User account management
 
 **Image:**
+
 ![Project1](images/project-1.png)
 
 

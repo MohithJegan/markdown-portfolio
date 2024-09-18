@@ -32,7 +32,7 @@ A personal portfolio website to showcase my projects and skills. The design focu
 
 **Image:**
 
-![Project2](images/project-2.png)
+![Project2](images/project-2.jpg)
 
 #### 3 Blog Platform 
 

@@ -6,7 +6,6 @@
 - **Email** - abc@abc.com
 - **Phone Number** - (123)-456-789
 
-
 ### Follow Me on Social Media:
 
 - ![LinkedIn](images/linkedin.png) 
@@ -22,7 +21,11 @@ Toronto, Ontario,
 
 M9W 5L7
 
+### Method of Contact:
 
+- Email
+- Phone
+- Text Message
 
 - [Home](index.markdown)
 - [Projects](projects.markdown)

@@ -13,10 +13,10 @@ If you have questions, feedback, or just want to say hello, feel free to reach o
 ### 📲 Social Media:
 
 - [![LinkedIn](images/linkedin.png)](https://ca.linkedin.com/)
-- ![Instagram](images/instagram.png) 
-- ![Facebook](images/facebook.png) 
-- ![Discord](images/discord.png) 
-- ![GitHub](images/github.png) 
+- [![Instagram](images/instagram.png)](https://www.instagram.com/) 
+- [![Facebook](images/facebook.png)](https://www.facebook.com/)
+- [![Discord](images/discord.png)](https://discord.com/)
+- [![GitHub](images/github.png)](https://github.com/)
 
 ### 📬 Method of Contact:
 

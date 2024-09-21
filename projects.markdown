@@ -50,10 +50,6 @@ A fully functional blogging platform that allows users to create, edit, and dele
 
 ![Project3](images/project-3.png)
 
-
-
-
-
 - [Home](index.markdown)
 - [Projects](projects.markdown)
 - [Contact](contact.markdown)

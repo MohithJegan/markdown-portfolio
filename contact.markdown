@@ -10,7 +10,7 @@ If you have questions, feedback, or just want to say hello, feel free to reach o
 - **Email** - abc@email.com
 - **Phone Number** - (123)-456-789
 
-### 📲 Follow Me on Social Media:
+### 📲 Social Media:
 
 - ![LinkedIn](images/linkedin.png) 
 - ![Instagram](images/instagram.png) 

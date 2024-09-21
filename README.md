@@ -13,4 +13,4 @@ Below is the website URL:
 [My-Portfolio](https://mohithjegan.github.io/markdown-portfolio/)
 
 
-> All data used in this portfolio is illustrative
+> All data used in this portfolio is purely for illustrative purpose

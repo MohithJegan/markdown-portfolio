@@ -12,7 +12,7 @@ If you have questions, feedback, or just want to say hello, feel free to reach o
 
 ### 📲 Social Media:
 
-- ![LinkedIn](images/linkedin.png) 
+- [![LinkedIn](images/linkedin.png)](https://ca.linkedin.com/)
 - ![Instagram](images/instagram.png) 
 - ![Facebook](images/facebook.png) 
 - ![Discord](images/discord.png) 

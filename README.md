@@ -6,7 +6,7 @@ This is a sample portfolio developed using Markdown language. It consists of thr
 - Projects Page
 - Contact Page
 
-Each page is created and designed using Markdown and are linked to eachother. All changes have been pushed to GitHub Pages.
+Each page is created and designed using Markdown and is linked to each other. All changes have been pushed to GitHub Pages.
 
 Below is the website URL:
 

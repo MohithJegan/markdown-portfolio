@@ -4,7 +4,7 @@
 If you have questions, feedback, or just want to say hello, feel free to reach out. I’m here to assist you with any inquiries you may have regarding my work or collaborations.
 
 
-**📞 Contact Information**
+### 📞 Contact Information
 
 - **Name** - Mohith Krishnamoorthy Jeganathan
 - **Email** - abc@email.com

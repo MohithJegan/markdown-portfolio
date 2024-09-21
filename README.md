@@ -11,3 +11,6 @@ Each page is created and designed using Markdown. All changes have been pushed t
 Below is the website URL:
 
 [My-Portfolio](https://mohithjegan.github.io/markdown-portfolio/)
+
+
+> All data used in this portfolio is illustrative

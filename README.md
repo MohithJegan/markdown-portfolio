@@ -6,11 +6,11 @@ This is a sample portfolio developed using Markdown language. It consists of thr
 - Projects Page
 - Contact Page
 
-Each page is created and designed using Markdown. All changes have been pushed to GitHub Pages.
+Each page is created and designed using Markdown and are linked to eachother. All changes have been pushed to GitHub Pages.
 
 Below is the website URL:
 
 [My-Portfolio](https://mohithjegan.github.io/markdown-portfolio/)
 
 
-> All data used in this portfolio is purely for illustrative purpose
+> All data used in this portfolio is purely for illustrative purpose.

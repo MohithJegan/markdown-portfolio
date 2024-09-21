@@ -6,7 +6,7 @@
 
 I’m a passionate **Front-end Developer** based in Toronto. With a love for IT Industry, I specialize in **Web Development**, and I strive to create work that not only meets but exceeds expectations.
 
-### 🌟 My Mission Statement
+### 🌟 Mission
 
 I strive to design intuitive and engaging **web experiences** that not only fulfill client expectations but also elevate user satisfaction. My goal is to create interfaces that are **user-friendly, visually appealing, and accessible** to everyone.
 

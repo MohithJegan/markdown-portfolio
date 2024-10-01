@@ -33,4 +33,4 @@ This page features my collaboration and the contact details information.
 
 ## Markdown Image
 
-[Markdown](./images/markdown.jpg)
+![Markdown](./images/markdown.jpg)

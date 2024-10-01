@@ -17,17 +17,17 @@ Below is the GitHub Pages URL:
 
 ## Description
 
-#### Home
+#### Home page
 
 This page shows my journey as a creative professional, including my skills, experiences, and the inspirations behind my work.It also reflects my background, skills, and what drives my creativity.
 
 
-#### Projects
+#### Projects page
 
 This page features a selection of my work, showcasing different projects that highlight my design skills and creative approach. Each project includes details about my process and the results I achieved.
 
 
-#### Contact
+#### Contact page
 
 This page features my collaboration and the contact details information.
 
